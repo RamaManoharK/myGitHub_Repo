@@ -1,0 +1,8 @@
+git config --global user.email "RamaManohar.Kamarsa@outlook.com"
+git config --global user.name "RamaManoharK"
+
+
+git config --global ini.defaultBranch main
+
+
+git -c init.defaultBranch=main init
